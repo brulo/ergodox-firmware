@@ -66,7 +66,7 @@ static layout_t layout PROGMEM = {
                                     bs, lpupo1l1,   arrowD,   arrowU,     guiR,
       mute,      nop,
    volumeU,      nop,      nop,
-   volumeD,      nop,      space  ),
+   volumeD, lpupo1l1,      space  ),
 
 
 // ............................................................................
